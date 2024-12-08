@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **My portfolio website**
 
-- 📫 How to reach me **pluhec.projects@gmail.com**
+- 📫 How to reach me **pluhacek.projects@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
